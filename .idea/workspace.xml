@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72438759-116a-4994-be57-0a99f2ec9964" name="Default" comment="" />
+    <list default="true" id="72438759-116a-4994-be57-0a99f2ec9964" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,7 +32,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Fahrenheit.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Fahrenheit.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Fahrenheit.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
@@ -72,11 +74,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CelsiusTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CelsiusTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="48" selection-start-line="48" selection-end-line="48" />
+            <state relative-caret-position="312">
+              <caret line="34" column="68" lean-forward="true" selection-start-line="34" selection-start-column="68" selection-end-line="34" selection-end-column="68" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -106,6 +108,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -113,9 +118,9 @@
         <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Celcius.java" />
         <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/TemperatureConverter.java" />
         <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/FahrenheitTest.java" />
-        <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" />
         <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Celsius.java" />
         <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Fahrenheit.java" />
+        <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" />
       </list>
     </option>
   </component>
@@ -134,6 +139,7 @@
     <option name="width" value="1260" />
     <option name="height" value="737" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -324,7 +330,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525289783644</updated>
-      <workItem from="1525289787940" duration="2622000" />
+      <workItem from="1525289787940" duration="2672000" />
     </task>
     <servers />
   </component>
@@ -340,10 +346,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2622000" />
+    <option name="totallyTimeSpent" value="2672000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="8" y="23" width="1260" height="737" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="bottom" id="TODO" order="10" />
@@ -354,7 +361,7 @@
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.32880846" />
       <window_info anchor="bottom" id="Terminal" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -405,16 +412,6 @@
             <element signature="e#254#255#0" expanded="true" />
             <element signature="e#317#318#0" expanded="true" />
             <element signature="e#352#353#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -474,6 +471,16 @@
             <element signature="e#142#143#0" expanded="true" />
             <element signature="e#275#276#0" expanded="true" />
             <element signature="e#302#303#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="34" column="68" lean-forward="true" selection-start-line="34" selection-start-column="68" selection-end-line="34" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
